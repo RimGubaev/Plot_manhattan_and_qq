@@ -6,7 +6,7 @@ Here TASSEL output was used as an exmaple.
 Additionally the script allows one to rename chromosomes in case if non-integers were used for naming (it is the common case for NCBI's RefSeq and Genbank). 
 
 Required R packages:
-qqman
+qqman,
 plyr
 
 Email: rimgubaev@gmail.com
